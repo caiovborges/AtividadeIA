@@ -1,20 +1,18 @@
-# Atividade Python
-
-Atividade prática com 4 exercícios simples de Python:
+# Atividade Prática 02 - Python
 
 ## ✅ Exercícios
 
-1. **Exibir uma mensagem na tela**  
-   Código que exibe a mensagem "Olá, mundo!".
+1. **Conversor de Moeda**  
+   Converte valor em reais para dólares e euros.
 
-2. **Calculadora de Soma**  
-   Soma dois valores inteiros e exibe o resultado.
+2. **Calculadora de Desconto**  
+   Calcula desconto e preço final de um produto.
 
-3. **Calculadora de Volume**  
-   Calcula o volume de uma caixa retangular (comprimento x largura x altura).
+3. **Calculadora de Média Escolar**  
+   Calcula a média de três notas escolares.
 
-4. **Calculadora de Preço Total**  
-   Calcula o preço total de um produto com base no preço unitário e na quantidade.
+4. **Calculadora de Consumo de Combustível**  
+   Calcula o consumo médio de combustível em km/l.
 
 ## 📄 Arquivo
-- `Atividade_011.py` – Contém todas as respostas.
+- `Atividade_02.py` – Contém todas as respostas.
